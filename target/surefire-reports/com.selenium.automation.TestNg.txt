@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.selenium.automation.TestNg
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.584 s <<< FAILURE! - in com.selenium.automation.TestNg
+openBrowser(com.selenium.automation.TestNg)  Time elapsed: 0.483 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.selenium.automation.TestNg.openBrowser(TestNg.java:25)
+
